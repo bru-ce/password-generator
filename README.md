@@ -1,6 +1,6 @@
 # Password Generator
 
-Password Generator é um sistema gerador de senhas aleatórias e seguras. Esqueça senhas fáceis, como Data de Nascimento, Telefone, Nome do Namorado(a) e etc! Esqueça senhas fáceis ..
+Password Generator é um sistema gerador de senhas aleatórias e seguras. Esqueça senhas fáceis, como Data de Nascimento, Telefone, Nome do Namorado(a) e etc!
 
 Eu sempre procurava geradores de senhas de outros devs, resolvi criar o meu próprio gerador de senhas.
 
