@@ -1,27 +1,22 @@
 # Password Generator
 
-[Round About](http://startbootstrap.com/template-overviews/round-about/) is an about page template for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
+Password Generator é um sistema gerador de senhas aleatórias e seguras. Esqueça senhas fáceis, como Data de Nascimento, Telefone, Nome do Namorado(a) e etc! Esqueça senhas fáceis ..
+
+Eu sempre procurava geradores de senhas de outros devs, resolvi criar o meu próprio gerador de senhas.
 
 ## Getting Started
 
-To begin using this template, choose one of the following options to get started:
-* [Download the latest release on Start Bootstrap](http://startbootstrap.com/template-overviews/round-about/)
-* Clone the repo: `git clone https://github.com/BlackrockDigital/startbootstrap-round-about.git`
+Para começar a usar este modelo, faça um fork ou um clone do projeto:
+* Clone the repo: `https://github.com/bru-ce/password-generator`
 * Fork the repo
 
-## Bugs and Issues
-
-Have a bug or an issue with this template? [Open a new issue](https://github.com/BlackrockDigital/startbootstrap-round-about/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/round-about/).
 
 ## Creator
 
-Start Bootstrap was created by and is maintained by **[David Miller](http://davidmiller.io/)**, Owner of [Blackrock Digital](http://blackrockdigital.io/).
+Esse Projeto foi criado e é mantido pro **[Bruno César](https://github.com/bru_ce/).
 
-* https://twitter.com/davidmillerskt
-* https://github.com/davidtmiller
+* https://github.com/bru_ce
 
-Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
+Password Generator é baseado no Framework [Bootstrap](http://getbootstrap.com/).
 
-## Copyright and License
 
-Copyright 2013-2016 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-round-about/blob/gh-pages/LICENSE) license.
