@@ -11,10 +11,10 @@ $(function () {
 		var tamanho = $("[name='tamanho']").val(); /*	Número de Caracteres da Senha */
 		if($("[name='tamanho']").val() <= 0){
 			/*	Exibindo o Aviso caso a quantidade seja menor que 0 */
-			$(".alert").fadeIn('slow').addClass('alert-danger').html('<strong>Atenção!</strong> Quantidade de caracteres em branco.');
+			$(".alert").fadeIn('slow').addClass('alert-danger').removeClass('alert-info').html('<strong>Atenção!</strong> Quantidade de caracteres em branco.');
 			return false
 		} else {
-			$(".alert").fadeIn('slow').addClass('alert-info').html('<strong>Sucesso!</strong> Muito bem, agora você já tem uma Super Senha.');
+			$(".alert").fadeIn('slow').addClass('alert-info').removeClass('alert-danger').html('<strong>Sucesso!</strong> Muito bem, agora você já tem uma Super Senha.');
 		}
 
 		var pass = "";
