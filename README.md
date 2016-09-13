@@ -1,4 +1,4 @@
-# [Start Bootstrap](http://startbootstrap.com/) - [Round About](http://startbootstrap.com/template-overviews/round-about/)
+# Password Generator
 
 [Round About](http://startbootstrap.com/template-overviews/round-about/) is an about page template for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
 
