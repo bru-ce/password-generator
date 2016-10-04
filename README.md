@@ -1,4 +1,4 @@
-# Password Generator
+﻿# Password Generator
 
 Password Generator é um sistema gerador de senhas aleatórias e seguras. Esqueça senhas fáceis, como Data de Nascimento, Telefone, Nome do Namorado(a) e etc!
 
@@ -13,9 +13,9 @@ Para começar a usar este modelo, faça um fork ou um clone do projeto:
 
 ## Creator
 
-Esse Projeto foi criado e é mantido pro **[Bruno César](https://github.com/bru_ce/).
+Esse Projeto foi criado e é mantido pro **[Bruno César](https://github.com/bru-ce/).
 
-* https://github.com/bru_ce
+* https://github.com/bru-ce
 
 Password Generator é baseado no Framework [Bootstrap](http://getbootstrap.com/).
 
